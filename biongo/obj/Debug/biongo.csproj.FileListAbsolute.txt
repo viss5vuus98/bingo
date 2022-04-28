@@ -1,0 +1,10 @@
+E:\Source\biongo\biongo\bin\Debug\biongo.exe.config
+E:\Source\biongo\biongo\bin\Debug\biongo.exe
+E:\Source\biongo\biongo\bin\Debug\biongo.pdb
+E:\Source\biongo\biongo\obj\Debug\biongo.csproj.AssemblyReference.cache
+E:\Source\biongo\biongo\obj\Debug\biongo.Form1.resources
+E:\Source\biongo\biongo\obj\Debug\biongo.Properties.Resources.resources
+E:\Source\biongo\biongo\obj\Debug\biongo.csproj.GenerateResource.cache
+E:\Source\biongo\biongo\obj\Debug\biongo.csproj.CoreCompileInputs.cache
+E:\Source\biongo\biongo\obj\Debug\biongo.exe
+E:\Source\biongo\biongo\obj\Debug\biongo.pdb
